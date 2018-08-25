@@ -65,6 +65,9 @@ Desaturated ambient occlusion. All white to show the elements. When you find an 
 ### BitElement Gallery
 How to see your elelment. In the eral world back at the main gallery a screen would showcase all ButElements created. But in the virtual world you can visit your element in a digital gallery.
 
+## Mining
+The idea of mining BitElment is that you have to mine it both physicaly and digitaly by going to a designated element (in XinChang for now) and scanning the QR code then staying in the WebVR experince of that element. It can be anywhere esentially and would be nice to designate Geo Location coordinates rather than QR codes because they cant be hacked. 
+
 ### Questions 
 Element sounds. If water was a sound how would it sound?
 When they leave what do they see?
@@ -94,5 +97,6 @@ TBC
 1. Dat-project distributed DB of Profiles
 1. Integrate mining
 1. Gallery
+
 
 
