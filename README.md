@@ -1,5 +1,7 @@
-# XinChang BitElement
+# BitElement
+Geolocation based WebVR mining of BitElement. There are 5 elments in the Chinese Zodiac chart. BitElement is the 6th. Its a digital combination of your unique element based on your WebVR mining activity in the BitElement epicentre XinChang, Pudong, China. 
 
+## XinChang BitElement
 The idea of this project is to explore the city of XinChang. However this concept could be applied to any location. 
 
 # BitElement - the 6Th Element of Xinchang
